@@ -10,7 +10,7 @@
 class class1 {
 
 private string nome;
-private string idade;
+private string data;
 
 };
 
