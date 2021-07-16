@@ -9,8 +9,8 @@
 
 class class1 {
 
-private string nome;
-private string data;
+private string name;
+private string idade;
 
 };
 
