@@ -9,7 +9,7 @@
 
 class class1 {
 
-private string nome;
+private string name;
 private string idade;
 
 };
