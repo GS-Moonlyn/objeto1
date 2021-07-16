@@ -9,8 +9,13 @@
 
 class class1 {
 
+<<<<<<< HEAD
 private string name;
 private string idade;
+=======
+private string nome;
+private string data;
+>>>>>>> 8fb332e (Objeto Data)
 
 };
 
